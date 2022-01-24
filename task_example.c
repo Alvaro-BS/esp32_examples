@@ -1,4 +1,4 @@
-//ESTO ES UNA PRUEBA
+//Esto es una prueba
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
